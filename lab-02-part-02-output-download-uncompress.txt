@@ -177,8 +177,7 @@ COMMAND: unzip mtec1002-lab-02.zip
 
 Copy and paste the output below.
 ----------
-ent-v314-007:~ student$ cd mtec1002-lab-02
-ent-v314-007:mtec1002-lab-02 student$
+books logs web
 
 
 ==========
